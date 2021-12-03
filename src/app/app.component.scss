@@ -1,0 +1,27 @@
+.content {
+    text-align: center;
+    padding-top: 10px;
+    color: black;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.mr {
+    margin-right: 16px;
+}
+
+input {
+    border: none;
+    background: teal;
+    padding: 0;
+    outline: none;
+    font: inherit;
+    text-align: center;
+    color: currentColor;
+    margin-right: 16px;
+}
